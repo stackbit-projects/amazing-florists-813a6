@@ -94,7 +94,7 @@ models:
       - type: boolean
         name: secret
         description: If secret the Post will not appear in paginated lists. Defaults to false.
-          - type: model
+      - type: model
       name: seo
       models:
         - stackbit_page_meta
