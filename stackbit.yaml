@@ -94,7 +94,6 @@ models:
       - type: boolean
         name: secret
         description: If secret the Post will not appear in paginated lists. Defaults to false.
-models:
   config:
     type: data
     label: Site Configuration
